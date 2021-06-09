@@ -1,0 +1,39 @@
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\bin\Release\ClientGUI.exe.config
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\bin\Release\ClientGUI.exe
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\bin\Release\ClientGUI.pdb
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\obj\Release\ClientGUI.csprojResolveAssemblyReference.cache
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\obj\Release\ClientGUI.Form1.resources
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\obj\Release\ClientGUI.Properties.Resources.resources
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\obj\Release\ClientGUI.csproj.GenerateResource.Cache
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\obj\Release\ClientGUI.exe
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\obj\Release\ClientGUI.pdb
+C:\Users\User\source\repos\ClientGUI\ClientGUI\bin\Release\ClientGUI.exe.config
+C:\Users\User\source\repos\ClientGUI\ClientGUI\bin\Release\ClientGUI.exe
+C:\Users\User\source\repos\ClientGUI\ClientGUI\bin\Release\ClientGUI.pdb
+C:\Users\User\source\repos\ClientGUI\ClientGUI\obj\Release\ClientGUI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ClientGUI\ClientGUI\obj\Release\ClientGUI.Form1.resources
+C:\Users\User\source\repos\ClientGUI\ClientGUI\obj\Release\ClientGUI.Properties.Resources.resources
+C:\Users\User\source\repos\ClientGUI\ClientGUI\obj\Release\ClientGUI.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ClientGUI\ClientGUI\obj\Release\ClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClientGUI\ClientGUI\obj\Release\ClientGUI.exe
+C:\Users\User\source\repos\ClientGUI\ClientGUI\obj\Release\ClientGUI.pdb
+C:\Users\faker\Desktop\ClientGUI\ClientGUI\bin\Release\ClientGUI.exe.config
+C:\Users\faker\Desktop\ClientGUI\ClientGUI\bin\Release\ClientGUI.exe
+C:\Users\faker\Desktop\ClientGUI\ClientGUI\bin\Release\ClientGUI.pdb
+C:\Users\faker\Desktop\ClientGUI\ClientGUI\obj\Release\ClientGUI.csprojAssemblyReference.cache
+C:\Users\faker\Desktop\ClientGUI\ClientGUI\obj\Release\ClientGUI.Form1.resources
+C:\Users\faker\Desktop\ClientGUI\ClientGUI\obj\Release\ClientGUI.Properties.Resources.resources
+C:\Users\faker\Desktop\ClientGUI\ClientGUI\obj\Release\ClientGUI.csproj.GenerateResource.cache
+C:\Users\faker\Desktop\ClientGUI\ClientGUI\obj\Release\ClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\faker\Desktop\ClientGUI\ClientGUI\obj\Release\ClientGUI.exe
+C:\Users\faker\Desktop\ClientGUI\ClientGUI\obj\Release\ClientGUI.pdb
+C:\Users\User\Downloads\1\НА 6 СЕМ\ClientGUI\ClientGUI\bin\Release\ClientGUI.exe.config
+C:\Users\User\Downloads\1\НА 6 СЕМ\ClientGUI\ClientGUI\bin\Release\ClientGUI.exe
+C:\Users\User\Downloads\1\НА 6 СЕМ\ClientGUI\ClientGUI\bin\Release\ClientGUI.pdb
+C:\Users\User\Downloads\1\НА 6 СЕМ\ClientGUI\ClientGUI\obj\Release\ClientGUI.csprojAssemblyReference.cache
+C:\Users\User\Downloads\1\НА 6 СЕМ\ClientGUI\ClientGUI\obj\Release\ClientGUI.Form1.resources
+C:\Users\User\Downloads\1\НА 6 СЕМ\ClientGUI\ClientGUI\obj\Release\ClientGUI.Properties.Resources.resources
+C:\Users\User\Downloads\1\НА 6 СЕМ\ClientGUI\ClientGUI\obj\Release\ClientGUI.csproj.GenerateResource.cache
+C:\Users\User\Downloads\1\НА 6 СЕМ\ClientGUI\ClientGUI\obj\Release\ClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\1\НА 6 СЕМ\ClientGUI\ClientGUI\obj\Release\ClientGUI.exe
+C:\Users\User\Downloads\1\НА 6 СЕМ\ClientGUI\ClientGUI\obj\Release\ClientGUI.pdb

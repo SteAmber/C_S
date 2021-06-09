@@ -1,0 +1,29 @@
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI2\ServerGUI\bin\Release\ServerGUI.exe.config
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI2\ServerGUI\bin\Release\ServerGUI.exe
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI2\ServerGUI\bin\Release\ServerGUI.pdb
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI2\ServerGUI\obj\Release\ServerGUI.Form1.resources
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI2\ServerGUI\obj\Release\ServerGUI.Properties.Resources.resources
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI2\ServerGUI\obj\Release\ServerGUI.csproj.GenerateResource.Cache
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI2\ServerGUI\obj\Release\ServerGUI.exe
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI2\ServerGUI\obj\Release\ServerGUI.pdb
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ServerGUI2\ServerGUI\obj\Release\ServerGUI.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ServerGUI2\ServerGUI\bin\Release\ServerGUI.exe.config
+C:\Users\User\source\repos\ServerGUI2\ServerGUI\bin\Release\ServerGUI.exe
+C:\Users\User\source\repos\ServerGUI2\ServerGUI\bin\Release\ServerGUI.pdb
+C:\Users\User\source\repos\ServerGUI2\ServerGUI\obj\Release\ServerGUI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ServerGUI2\ServerGUI\obj\Release\ServerGUI.Form1.resources
+C:\Users\User\source\repos\ServerGUI2\ServerGUI\obj\Release\ServerGUI.Properties.Resources.resources
+C:\Users\User\source\repos\ServerGUI2\ServerGUI\obj\Release\ServerGUI.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ServerGUI2\ServerGUI\obj\Release\ServerGUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ServerGUI2\ServerGUI\obj\Release\ServerGUI.exe
+C:\Users\User\source\repos\ServerGUI2\ServerGUI\obj\Release\ServerGUI.pdb
+C:\Users\faker\Desktop\ServerGUI2\ServerGUI\bin\Release\ServerGUI.exe.config
+C:\Users\faker\Desktop\ServerGUI2\ServerGUI\bin\Release\ServerGUI.exe
+C:\Users\faker\Desktop\ServerGUI2\ServerGUI\bin\Release\ServerGUI.pdb
+C:\Users\faker\Desktop\ServerGUI2\ServerGUI\obj\Release\ServerGUI.csprojAssemblyReference.cache
+C:\Users\faker\Desktop\ServerGUI2\ServerGUI\obj\Release\ServerGUI.Form1.resources
+C:\Users\faker\Desktop\ServerGUI2\ServerGUI\obj\Release\ServerGUI.Properties.Resources.resources
+C:\Users\faker\Desktop\ServerGUI2\ServerGUI\obj\Release\ServerGUI.csproj.GenerateResource.cache
+C:\Users\faker\Desktop\ServerGUI2\ServerGUI\obj\Release\ServerGUI.csproj.CoreCompileInputs.cache
+C:\Users\faker\Desktop\ServerGUI2\ServerGUI\obj\Release\ServerGUI.exe
+C:\Users\faker\Desktop\ServerGUI2\ServerGUI\obj\Release\ServerGUI.pdb

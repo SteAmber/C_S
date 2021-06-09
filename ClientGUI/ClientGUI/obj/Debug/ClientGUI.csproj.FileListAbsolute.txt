@@ -1,0 +1,35 @@
+C:\Users\goldm_000\Desktop\Project\ClientGUI\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\goldm_000\Desktop\Project\ClientGUI\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\goldm_000\Desktop\Project\ClientGUI\ClientGUI\bin\Debug\ClientGUI.pdb
+C:\Users\goldm_000\Desktop\Project\ClientGUI\ClientGUI\obj\Debug\ClientGUI.Form1.resources
+C:\Users\goldm_000\Desktop\Project\ClientGUI\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\goldm_000\Desktop\Project\ClientGUI\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
+C:\Users\goldm_000\Desktop\Project\ClientGUI\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\goldm_000\Desktop\Project\ClientGUI\ClientGUI\obj\Debug\ClientGUI.pdb
+E:\Институт\Актуальное\ОС\ClientGUI\ClientGUI\bin\Debug\ClientGUI.exe.config
+E:\Институт\Актуальное\ОС\ClientGUI\ClientGUI\obj\Debug\ClientGUI.exe
+E:\Институт\Актуальное\ОС\ClientGUI\ClientGUI\obj\Debug\ClientGUI.pdb
+E:\Институт\Актуальное\ОС\ClientGUI\ClientGUI\bin\Debug\ClientGUI.exe
+E:\Институт\Актуальное\ОС\ClientGUI\ClientGUI\bin\Debug\ClientGUI.pdb
+E:\Институт\Актуальное\ОС\ClientGUI\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
+E:\Институт\Актуальное\ОС\ClientGUI\ClientGUI\obj\Debug\ClientGUI.Form1.resources
+E:\Институт\Актуальное\ОС\ClientGUI\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+E:\Институт\Актуальное\ОС\ClientGUI\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
+E:\Институт\Актуальное\ОС\Курсовик\ClientGUI\ClientGUI\bin\Debug\ClientGUI.exe.config
+E:\Институт\Актуальное\ОС\Курсовик\ClientGUI\ClientGUI\obj\Debug\ClientGUI.exe
+E:\Институт\Актуальное\ОС\Курсовик\ClientGUI\ClientGUI\obj\Debug\ClientGUI.pdb
+E:\Институт\Актуальное\ОС\Курсовик\ClientGUI\ClientGUI\bin\Debug\ClientGUI.exe
+E:\Институт\Актуальное\ОС\Курсовик\ClientGUI\ClientGUI\bin\Debug\ClientGUI.pdb
+E:\Институт\Актуальное\ОС\Курсовик\ClientGUI\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
+E:\Институт\Актуальное\ОС\Курсовик\ClientGUI\ClientGUI\obj\Debug\ClientGUI.Form1.resources
+E:\Институт\Актуальное\ОС\Курсовик\ClientGUI\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+E:\Институт\Актуальное\ОС\Курсовик\ClientGUI\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\bin\Debug\ClientGUI.exe.config
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\obj\Debug\ClientGUI.exe
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\obj\Debug\ClientGUI.pdb
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\bin\Debug\ClientGUI.exe
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\bin\Debug\ClientGUI.pdb
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\obj\Debug\ClientGUI.Form1.resources
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+E:\Институт\Актуальное\ОС\Курсовик\Новый курсовик\ClientGUI\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
